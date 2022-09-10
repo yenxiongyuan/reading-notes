@@ -23,7 +23,8 @@ Utilize at lease 5 different features of Markdown to structure your page.
 
 This is my [GitHub Pages](https://github.com/yenxiongyuan).
 
-* [Class 1 Notes Markdown](class1.md)
+* [Class 1 Notes Growth Mindset](class1.md)
+* [Class 1 Notes Markdonw](class1a.md)
 * [Class 2 Notes Coder's Computer](class2.md)
 
 
