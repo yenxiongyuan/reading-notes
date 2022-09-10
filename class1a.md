@@ -44,7 +44,7 @@ Create a link by surrounding the link text in square brackets, followed immediat
 
 Both local and web URLs are supported. Markdown uses the following syntax for images:
 
-`![](http://example.com/image.jpg)  
-![](./image.jpg)`
+`![](http://example.com/image.jpg)`    
+`![](./image.jpg)`
 
 [This is my GitHub Pages](https://github.com/yenxiongyuan/reading-notes).
