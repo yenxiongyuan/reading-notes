@@ -8,9 +8,9 @@ Markdown is a simple way to format text for the web without writing any HTML. It
 
 You can use up to up to six levels by writing # at the start of a line; the number of hashtags defines the hierarchy of the heading.
 
-`# First level heading`
-`## Second level heading`
-`### Third level heading`
+`# First level heading`  
+`## Second level heading`  
+`### Third level heading`  
 
 ### Strikethrough
 
@@ -38,13 +38,13 @@ Type *, - or + then a space. Create a bulleted list by using an asterisk (*), hy
 
 Create a link by surrounding the link text in square brackets, followed immediately by the URL in parentheses:
 
-[text to link](http://example.com/)
+`[text to link](http://example.com/)`
 
 ### Images
 
 Both local and web URLs are supported. Markdown uses the following syntax for images:
 
-`![](http://example.com/image.jpg)
+`![](http://example.com/image.jpg)  
 ![](./image.jpg)`
 
 [This is my GitHub Pages](https://github.com/yenxiongyuan/reading-notes).
