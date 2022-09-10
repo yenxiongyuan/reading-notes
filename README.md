@@ -26,6 +26,9 @@ This is my [GitHub Pages](https://github.com/yenxiongyuan).
 * [Class 1 Notes Growth Mindset](class1.md)
 * [Class 1 Notes Markdonw](class1a.md)
 * [Class 2 Notes Coder's Computer](class2.md)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1d057e965d2fc668bbb458000f49fcb3f68395b4
 
 
