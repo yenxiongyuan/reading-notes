@@ -1,34 +1,12 @@
-# reading-notes
-My reading notes for **Code Fellows 102 Class**
+# About Me
 
-What is *growth mindset*?
-
-Growth Mindset is a self-percetion that people hold about themselves. Having a growth mindset means that you believe basic abilities can be developed through hard work, dedication and persistence, which in turn can improve intelliegence and performance.
-
-What are 3 reminders to myself to keep in a growth mindset?
-
-1. It's never too late to learn.
-2. I am at the starting point of my potential. 
-3. It's ok if I fail, at least I learned something.
-4. ~~Just quit~~. 
-
-Utilize at lease 5 different features of Markdown to structure your page.
-
-- #### Header
-- **Bold**
-- *Italic*
-- ~~Strikethrough~~
-- [Link](https://github.com/yenxiongyuan)
+My name is Yen Xiong Yuan. I am US vetern. Now a real estate agent in PA. I like problems solving even when I was a young kid. One day I was reading on the internet and Code Fellows pops up on my screen. I read the about page on their website. At that moment I knew I want to do software development. After a week a signed up for their course, even I do not have any experience about coding. I will read and practice coding, whenever I have some free time. Hopefully in the future I will even get a job in the tech field.  
 
 
 This is my [GitHub Pages](https://github.com/yenxiongyuan).
 
-* [Class 1 Notes Growth Mindset](class1.md)
-* [Class 1 Notes Markdonw](class1a.md)
-* [Class 2 Notes Coder's Computer](class2.md)
-<<<<<<< HEAD
-
-=======
->>>>>>> 1d057e965d2fc668bbb458000f49fcb3f68395b4
-
+* [Class 1 Notes - Growth Mindset](class1.md)
+* [Class 1 Notes - Markdonw](class1a.md)
+* [Class 2 Notes - Coder's Computer](class2.md)
+* [Class 3 Notes - Revisions and the Cloud](class3.md)
 

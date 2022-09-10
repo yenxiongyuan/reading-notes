@@ -4,7 +4,7 @@
 
 Text Editor is a software that allows you to write and manage text. 
 
-### Choosing a text editor is your own personal choice.
+### Choosing a text editor is your own personal choice
 
 Features of a text editor:
 
