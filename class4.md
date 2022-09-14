@@ -10,15 +10,15 @@ HTML stands for "Hypertext Markup Language." HTML is the language used to create
 
 ## Below is an example of HTML used to define a basic webpage with a title and a single paragraph of text.
 
-`<!DOCTYPE html>
-<html>
-<head>
-<title></title>
-</head>
-<body>
-<h1></h1>
-</body>
-</html>`
+\<!DOCTYPE html>   
+\<html>   
+\<head>    
+\<title></title>       
+\</head>    
+\<body>     
+\<h1></h1>    
+\</body>     
+\</html>     
 
 The first line defines what type of contents the document contains. "<!doctype html>" means the page is written in HTML5. Properly formatted HTML pages should include <html>, <head>, and <body> tags, which are all included in the example above. The page title, metadata, and links to referenced files are placed between the <head> tags. The actual contents of the page go between the <body> tags.
 
