@@ -13,5 +13,6 @@ This is my [GitHub Pages](https://github.com/yenxiongyuan).
 * [Class 3 Notes - Revisions and the Cloud](class3.md)
 * [Class 4 Notes - Structure web pages with HTML](class4.md)
 * [Class 5 Notes - Design web pages with CSS](class5.md)
+* [Class 6 Notes - Dynamic web pages with JavaScipt](class6.md)
 
 
