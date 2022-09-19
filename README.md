@@ -7,6 +7,8 @@ This is my [GitHub Pages](https://github.com/yenxiongyuan).
 
 ## Table of Contents
 
+### 102 Class Notes
+
 * [Class 1 Notes - Growth Mindset](class1.md)
 * [Class 1 Notes - Markdown](class1a.md)
 * [Class 2 Notes - Coder's Computer](class2.md)
@@ -14,5 +16,6 @@ This is my [GitHub Pages](https://github.com/yenxiongyuan).
 * [Class 4 Notes - Structure web pages with HTML](class4.md)
 * [Class 5 Notes - Design web pages with CSS](class5.md)
 * [Class 6 Notes - Dynamic web pages with JavaScipt](class6.md)
+* [Class 7 Notes - Programming with JavaScipt](class7.md)
 
 
