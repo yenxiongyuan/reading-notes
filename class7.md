@@ -9,6 +9,6 @@ A function is a block of code that performs an action or returns a value.
 * `+ Addition `
 * `- Subtraction`
 * `* Multiplication`
-*  / Division
-*  ++ Increment
-*  -- Decrement
+* `/ Division`
+* `++ Increment`
+* `-- Decrement`
