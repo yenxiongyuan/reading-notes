@@ -25,25 +25,26 @@ In programming, an expression is something that returns a usable output value.
 
 For loop will continually run until the condition becomes false.
 
-for ([initialExpression]; [conditionExpression]; [incrementExpression])
-  statement
+for ([initialExpression]; [conditionExpression];    [incrementExpression])     
+  statement   
 
-for (let i = 0; i < 5; i++) {
-  return ‘Your message here’;
-}
+for (let i = 0; i < 5; i++) {    
+  return ‘Your message here’;     
+}    
 
 ## While Statement
 
-While loop will executes its statement as long as it evaluates to true
-while (condition)
-  statement
+While loop will executes its statement as long as it evaluates to true    
+while (condition)      
+  statement     
 
 The following example uses the while statement to output the odd numbers between 1 and 10 to the console:
-let count = 1;
-while (count < 10) {
-    console.log(count);
-    count +=2;
-}
+
+let count = 1;    
+while (count < 10) {    
+    console.log(count);    
+    count +=2;    
+}    
 
 Output: 1, 3, 5, 7, 9
 
