@@ -29,7 +29,7 @@ for ([initialExpression]; [conditionExpression];    [incrementExpression])
   statement   
 
 for (let i = 0; i < 5; i++) {    
-  return ‘Your message here’;     
+   ‘Your statement here’;     
 }    
 
 ## While Statement
