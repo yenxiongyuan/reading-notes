@@ -17,5 +17,6 @@ This is my [GitHub Pages](https://github.com/yenxiongyuan).
 * [Class 5 Notes - Design web pages with CSS](class5.md)
 * [Class 6 Notes - Dynamic web pages with JavaScipt](class6.md)
 * [Class 7 Notes - Programming with JavaScipt](class7.md)
+* [Class 8 Notes - Operators and Loops](class8.md)
 
 
