@@ -62,3 +62,7 @@ Else if gives you and additional condition to evaluate if you fail the first tim
 #### What is the difference between the logical operator && and ||?
 
 && is the AND Operator and the || is the OR Operator.
+
+## Things I want to know more about
+
+Spend more time with CSS.
