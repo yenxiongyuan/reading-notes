@@ -24,3 +24,6 @@ Flexbox can work better than floats by:
 
 This information will give me ideas for ways to more precisely control the layout of webpages.
 
+## Things I want to know more about
+
+Spend more time with Flexbox.
