@@ -36,4 +36,4 @@ This is my [GitHub Pages](https://github.com/yenxiongyuan).
 * [Class 12 Notes](class212.md)
 * [Class 13 Notes](class213.md)
 * [Class 14 Notes](class214.md)
-* [Class 15 Notes](class215.md)
+* [Class 14a Notes](class215.md)
