@@ -8,7 +8,7 @@ This is my [GitHub Pages](https://github.com/yenxiongyuan).
 
 ### 102 Class Notes
 
-- [Class 1 Notes - Growth Mindset](Class-102/class1.md)
+- [Class 1 Notes - Growth Mindset](./Class-102%20/class1.md)
 - [Class 1 Notes - Markdown](class1a.md)
 - [Class 2 Notes - Coder's Computer](class2.md)
 - [Class 3 Notes - Revisions and the Cloud](class3.md)
