@@ -8,15 +8,15 @@ This is my [GitHub Pages](https://github.com/yenxiongyuan).
 
 ### Code 102 - Intro to Software Development
 
-- [Class 1 Notes - Growth Mindset](./Class-102%20/class1.md)
-- [Class 1 Notes - Markdown](./Class-102%20/class1a.md)
-- [Class 2 Notes - Coder's Computer](./Class-102%20/class2.md)
-- [Class 3 Notes - Revisions and the Cloud](./Class-102%20/class3.md)
-- [Class 4 Notes - Structure web pages with HTML](./Class-102%20/class4.md)
-- [Class 5 Notes - Design web pages with CSS](./Class-102%20/class5.md)
-- [Class 6 Notes - Dynamic web pages with JavaScipt](./Class-102%20/class6.md)
-- [Class 7 Notes - Programming with JavaScipt](./Class-102%20/class7.md)
-- [Class 8 Notes - Operators and Loops](./Class-102%20/class8.md)
+- [Class 1 Notes - Growth Mindset](./Class-102/class1.md)
+- [Class 1 Notes - Markdown](./Class-102/class1a.md)
+- [Class 2 Notes - Coder's Computer](./Class-102/class2.md)
+- [Class 3 Notes - Revisions and the Cloud](./Class-102/class3.md)
+- [Class 4 Notes - Structure web pages with HTML](./Class-102/class4.md)
+- [Class 5 Notes - Design web pages with CSS](./Class-102/class5.md)
+- [Class 6 Notes - Dynamic web pages with JavaScipt](./Class-102/class6.md)
+- [Class 7 Notes - Programming with JavaScipt](./Class-102/class7.md)
+- [Class 8 Notes - Operators and Loops](./Class-102/class8.md)
 
 ### Code 201 - Foundations of Software Development
 
