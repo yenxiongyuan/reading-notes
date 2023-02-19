@@ -46,3 +46,16 @@ CREATE TABLE IF NOT EXISTS mytable (
 ALTER TABLE mytable
 ADD column DataType OptionalTableConstraint 
     DEFAULT default_value;
+
+![lesson 1](/assets/lesson-1.png)
+![lesson 2](/assets/lesson-2.png)
+![lesson 3](/assets/lesson-3.png)
+![lesson 4](/assets/lesson-4.png)
+![lesson 5](/assets/lesson-5.png)
+![lesson 6](/assets/lesson-6.png)
+![lesson 13](/assets/lesson-13.png)
+![lesson 14](/assets/lesson-14.png)
+![lesson 15](/assets/lesson-15.png)
+![lesson 16](/assets/lesson-16.png)
+![lesson 17](/assets/lesson-17.png)
+![lesson 18](/assets/lesson-18.png)
