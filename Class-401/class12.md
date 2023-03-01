@@ -39,6 +39,4 @@ for more secure routes
 
 When building something with real time response on the frontend
 
-#### When would you use WebSockets?
 
-When building something with real time response on the frontend
